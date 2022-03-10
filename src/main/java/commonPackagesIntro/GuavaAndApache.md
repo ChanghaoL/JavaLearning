@@ -1,4 +1,5 @@
 ## Guava 
+Guava提供的工具方法更偏向于接受Iterable而不是Collection类型
 - [Multiset](https://github.com/google/guava#Multiset)
 - [Multimap](https://github.com/google/guava#Multimap)
 - [BiMap](https://github.com/google/guava#BiMap)
